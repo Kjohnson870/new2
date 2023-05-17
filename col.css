@@ -1,0 +1,24 @@
+h1{
+    background-color: rgb(255, 99, 71);
+    border: 2px solid dodgerblue; ;
+    font-family: fantasy;
+    word-spacing: 34px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+p{
+  color: aqua;  
+  border: green solid ;
+  background-color: hsl(9, 100%, 64%);
+  background-color: hsla(9, 100%, 64%, 0.5);
+  font-weight: normal;
+
+}
+#para2{
+    font-style: italic;
+    font-size: 4vw;
+
+}
+*{
+    font-family: 'Sigmar', cursive;
+}

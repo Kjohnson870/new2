@@ -1,0 +1,14 @@
+h1{
+   font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    font-size: 40px;
+    font-weight: 900;
+    font-style: italic;
+    word-spacing: 34px;
+    letter-spacing: 14px;
+}
+body{
+    background-color: red;
+}
